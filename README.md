@@ -1,4 +1,4 @@
-# A to Z List of Useful Node.js Modules
+Here is a A to Z list of node modules that will extend the capability of your node.js application.
 
 - Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a module.
 - Contributions welcome.
