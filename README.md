@@ -53,7 +53,7 @@ List of packages needed for development.
 * [`ESLint`](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
 * [`JSHint`](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
 
-### Packages for Management & Operations
+## Packages for Management & Operations
 List of packages needed for management and operations.
 
 #### Monitoring
