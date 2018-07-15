@@ -30,34 +30,34 @@ List of packages needed for development.
 
 ### Database
 #### MongoDB & Helpers
-* [`Mongoose``](http://mongoosejs.com) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
-* [`Mongoose Paginate``](https://www.npmjs.com/package/mongoose-paginate) - Pagination plugin for Mongoose
+* [`Mongoose`](http://mongoosejs.com) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
+* [`Mongoose Paginate`](https://www.npmjs.com/package/mongoose-paginate) - Pagination plugin for Mongoose
 
 #### MySQL & Helpers
-* [`MySQL``](https://www.npmjs.com/package/mysql) - A node.js driver for mysql. It is written in JavaScript, does not require compiling.
-* [`Sequelize``](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
+* [`MySQL`](https://www.npmjs.com/package/mysql) - A node.js driver for mysql. It is written in JavaScript, does not require compiling.
+* [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
 #### REST Client
-* [`Restify``](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
+* [`Restify`](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 
 #### Job Scheduler & Queueing
-* [`Agenda``](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
+* [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
 
 #### Loggers/Logging
-* [`Winston``](https://www.npmjs.com/package/winston) - A logger for just about everything.
+* [`Winston`](https://www.npmjs.com/package/winston) - A logger for just about everything.
 
 ### Code Quality
 #### Linting
-* [`ESLint``](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
-* [`JSHint``](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
+* [`ESLint`](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
+* [`JSHint`](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
 
 ### Packages for Management & Operations
 List of packages needed for management and operations.
 
 #### Monitoring
-* [`PM2``](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
-* [`Forever``](https://www.npmjs.com/package/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
-* [`Trace``](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
+* [`PM2`](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
+* [`Forever`](https://www.npmjs.com/package/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
+* [`Trace`](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
 
 #### Code Quality Analysis
-* [`Plato``](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
+* [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
