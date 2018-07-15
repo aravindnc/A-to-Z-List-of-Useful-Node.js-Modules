@@ -1,9 +1,7 @@
 ![Banner](static/banner.png)
 
-Here is a collection of most awesome node modules that will extend the capability of your node.js application.
-
 - Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a module.
-- Contributions welcome.
+- Contributions are welcome.
 
 ## Packages for development
 List of packages needed for development.
@@ -63,3 +61,5 @@ List of packages needed for management and operations.
 
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
+
+[Github.IO](https://aravindnc.github.io/A-to-Z-List-of-Useful-Node.js-Modules/)
