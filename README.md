@@ -62,4 +62,14 @@ List of packages needed for management and operations.
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
 
+#### Authentification Packages 
+* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
+#### Mail Packages 
+* [`Express-Mailer`](https://github.com/RGBboy/express-mailer) - Send Emails from your application and response object.
+
+
+
+
+
 [Github.IO](https://aravindnc.github.io/A-to-Z-List-of-Useful-Node.js-Modules/)
