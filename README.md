@@ -51,6 +51,16 @@ List of packages needed for development.
 * [`ESLint`](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
 * [`JSHint`](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
 
+#### Authentification Packages 
+* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
+#### Mail Packages 
+* [`Express-Mailer`](https://github.com/RGBboy/express-mailer) - Send Emails from your application and response object.
+
+
+
+
+
 ## Packages for Management & Operations
 List of packages needed for management and operations.
 
@@ -61,5 +71,7 @@ List of packages needed for management and operations.
 
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
+
+
 
 [Github.IO](https://aravindnc.github.io/A-to-Z-List-of-Useful-Node.js-Modules/)
