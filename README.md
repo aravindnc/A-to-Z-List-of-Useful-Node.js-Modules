@@ -37,32 +37,29 @@ List of packages needed for development.
 * [`MySQL`](https://www.npmjs.com/package/mysql) - A node.js driver for mysql. It is written in JavaScript, does not require compiling.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
+### Development
+#### Authentication 
+* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
+#### EMail
+* [`Express-Mailer`](https://github.com/RGBboy/express-mailer) - Send Emails from your application and response object.
+
 #### REST Client
 * [`Restify`](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
 
-#### Loggers/Logging
-* [`Winston`](https://www.npmjs.com/package/winston) - A logger for just about everything.
-
 ### Code Quality
 #### Linting
 * [`ESLint`](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
 * [`JSHint`](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
 
-#### Authentification Packages 
-* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
-
-#### Mail Packages 
-* [`Express-Mailer`](https://github.com/RGBboy/express-mailer) - Send Emails from your application and response object.
-
-
-
-
-
 ## Packages for Management & Operations
 List of packages needed for management and operations.
+
+#### Loggers/Logging
+* [`Winston`](https://www.npmjs.com/package/winston) - A logger for just about everything.
 
 #### Monitoring
 * [`PM2`](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
@@ -71,7 +68,3 @@ List of packages needed for management and operations.
 
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
-
-
-
-[Github.IO](https://aravindnc.github.io/A-to-Z-List-of-Useful-Node.js-Modules/)
