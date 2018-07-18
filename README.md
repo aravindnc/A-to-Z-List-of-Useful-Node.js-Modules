@@ -6,6 +6,10 @@
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a module.
 * Contributions are welcome.
 
+Other awesome lists,
+* [`Useful jQuery Plugins`](https://github.com/aravindnc/A-to-Z-List-of-Useful-jQuery-Plugins)
+* [`Useful Wordpress Plugins`](https://github.com/aravindnc/A-to-Z-List-of-Useful-Wordpress-Plugins)
+
 ## Packages for development
 List of packages needed for development.
 
