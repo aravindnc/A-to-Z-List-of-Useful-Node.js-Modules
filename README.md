@@ -31,7 +31,7 @@ List of packages needed for development.
 ### Database
 #### MongoDB & Helpers
 * [`Mongoose`](http://mongoosejs.com) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
-* [`Mongoose Paginate`](https://www.npmjs.com/package/mongoose-paginate) - Pagination plugin for Mongoose
+* [`Mongoose Paginate v2`](https://www.npmjs.com/package/mongoose-paginate-v2) - A customizable cursor based pagination plugin for Mongoose.
 
 #### MySQL & Helpers
 * [`MySQL`](https://www.npmjs.com/package/mysql) - A node.js driver for mysql. It is written in JavaScript, does not require compiling.
@@ -42,13 +42,18 @@ List of packages needed for development.
 * [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
 
 #### EMail
+* [`Nodemailer`](http://nodemailer.com/) - Send e-mails with Node.JS – easy as cake!
 * [`Express-Mailer`](https://github.com/RGBboy/express-mailer) - Send Emails from your application and response object.
 
-#### REST Client
+#### HTTP REST Client
+* [`Axios`](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 * [`Restify`](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
+
+#### Testing
+* [`Mocha`](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
 
 ### Code Quality
 #### Linting
