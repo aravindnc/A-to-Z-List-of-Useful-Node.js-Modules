@@ -64,6 +64,7 @@ List of packages needed for management and operations.
 #### Monitoring
 * [`PM2`](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
 * [`Forever`](https://www.npmjs.com/package/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
+* [`nodemon`](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 * [`Trace`](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
 
 #### Code Quality Analysis
