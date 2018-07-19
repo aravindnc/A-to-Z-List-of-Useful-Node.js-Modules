@@ -16,7 +16,7 @@ List of packages needed for development.
 ### Frameworks
 #### API Framework
 * [`Actionhero`](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-* [`Baucis`](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+* [`Restify`](http://restify.com/) - A Node.js web service framework optimized for building semantically correct RESTful web services ready for production use at scale.
 * [`FeathersJS`](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 * [`Loopback`](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 
@@ -54,7 +54,6 @@ List of packages needed for development.
 
 #### HTTP REST Client
 * [`Axios`](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
-* [`Restify`](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
