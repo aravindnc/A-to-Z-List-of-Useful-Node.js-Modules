@@ -35,6 +35,10 @@ List of packages needed for development.
 * [`Serverless`](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 * [`StdLib`](https://stdlib.com/) - Standard library for microservices.
 
+
+#### Machine Learning Framework
+* [`TensorFlow`](https://www.tensorflow.org/) - An open source machine learning framework for everyone
+
 ### Database
 #### MongoDB & Helpers
 * [`Mongoose`](http://mongoosejs.com) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
