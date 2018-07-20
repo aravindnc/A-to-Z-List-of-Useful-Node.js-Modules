@@ -45,8 +45,23 @@ List of packages needed for development.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
 ### Development
+
+#### Templates 
+
+* [`EJS`](https://github.com/mde/ejs) - Embedded JavaScript templates
+
 #### Authentication 
-* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A 
+comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
+#### Upload Files
+* [`express-fileupload`](https://github.com/richardgirges/express-fileupload) - Simple express middleware for uploading files.
+
+#### Form Information
+* [`Body-parser`](https://github.com/expressjs/body-parser) - Node.js body parsing middleware - Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+
+#### Flash Messages
+* [`connect-flash`](https://github.com/jaredhanson/connect-flash) - The flash is a special area of the session used for storing messages. Messages are written to the flash and cleared after being displayed to the user. The flash is typically used in combination with redirects, ensuring that the message is available to the next page that is to be rendered.
 
 #### EMail
 * [`Nodemailer`](http://nodemailer.com/) - Send e-mails with Node.JS – easy as cake!
@@ -54,6 +69,8 @@ List of packages needed for development.
 
 #### HTTP REST Client
 * [`Axios`](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
+
+* [`method-override`](https://github.com/expressjs/method-override) - Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it.
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
@@ -65,16 +82,6 @@ List of packages needed for development.
 #### Linting
 * [`ESLint`](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
 * [`JSHint`](https://www.npmjs.com/package/jshint) - A Static Code Analysis Tool for Javascript.
-
-#### Authentification Packages 
-* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
-
-#### Mail Packages 
-* [`Express-Mailer`](https://github.com/RGBboy/express-mailer) - Send Emails from your application and response object.
-
-
-
-
 
 ## Packages for Management & Operations
 List of packages needed for management and operations.
@@ -90,10 +97,3 @@ List of packages needed for management and operations.
 
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
-<<<<<<< HEAD
-
-
-
-[Github.IO](https://aravindnc.github.io/A-to-Z-List-of-Useful-Node.js-Modules/)
-=======
->>>>>>> 02a03709b503745effaddb55b1aa5b9be187f813
