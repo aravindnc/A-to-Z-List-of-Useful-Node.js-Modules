@@ -1,0 +1,33 @@
+{
+	"name": "A-to-Z-List-of-Useful-Node.js-Modules",
+	"version": "1.0.0",
+	"description": "Collection of most awesome node modules that will extend the capability of your node.js application.",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules.git"
+	},
+	"keywords": [
+		"nodejs", 
+		"nodejs-modules",
+		"nodejs-library",
+		"nodejs-development",
+		"nodejs-mongodb",
+		"packages",
+		"npm-package",
+		"npm-module",
+		"useful",
+		"modules",
+		"collection"
+	],
+	"author": "Aravind NC <aravind_n_c@yahoo.co.in> (http://imwebgangster.com)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules/issues"
+	},
+	"homepage": "https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules#readme",
+	"dependencies": {},
+	"devDependencies": {},
+	"engines": {}
+}

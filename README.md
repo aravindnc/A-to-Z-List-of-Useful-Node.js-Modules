@@ -1,7 +1,14 @@
 ![Banner](static/banner.png)
 
-- Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a module.
-- Contributions are welcome.
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules/issues)
+[![HitCount](http://hits.dwyl.io/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules.svg)](http://hits.dwyl.io/aravindnc/A-to-Z-List-of-Useful-Node.js-Modules)
+
+* Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> to search for a module.
+* Contributions are welcome.
+
+Other awesome lists,
+* [`Useful jQuery Plugins`](https://github.com/aravindnc/A-to-Z-List-of-Useful-jQuery-Plugins)
+* [`Useful Wordpress Plugins`](https://github.com/aravindnc/A-to-Z-List-of-Useful-Wordpress-Plugins)
 
 ## Packages for development
 List of packages needed for development.
@@ -9,7 +16,7 @@ List of packages needed for development.
 ### Frameworks
 #### API Framework
 * [`Actionhero`](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
-* [`Baucis`](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
+* [`Restify`](http://restify.com/) - A Node.js web service framework optimized for building semantically correct RESTful web services ready for production use at scale.
 * [`FeathersJS`](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
 * [`Loopback`](http://loopback.io/) - Node.js framework for creating APIs and easily connecting to backend data sources.
 
@@ -31,20 +38,28 @@ List of packages needed for development.
 ### Database
 #### MongoDB & Helpers
 * [`Mongoose`](http://mongoosejs.com) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
-* [`Mongoose Paginate`](https://www.npmjs.com/package/mongoose-paginate) - Pagination plugin for Mongoose
+* [`Mongoose Paginate v2`](https://www.npmjs.com/package/mongoose-paginate-v2) - A customizable cursor based pagination plugin for Mongoose.
 
 #### MySQL & Helpers
 * [`MySQL`](https://www.npmjs.com/package/mysql) - A node.js driver for mysql. It is written in JavaScript, does not require compiling.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
-#### REST Client
-* [`Restify`](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
+### Development
+#### Authentication 
+* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
+#### EMail
+* [`Nodemailer`](http://nodemailer.com/) - Send e-mails with Node.JS – easy as cake!
+* [`Express-Mailer`](https://github.com/RGBboy/express-mailer) - Send Emails from your application and response object.
+
+#### HTTP REST Client
+* [`Axios`](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
 
-#### Loggers/Logging
-* [`Winston`](https://www.npmjs.com/package/winston) - A logger for just about everything.
+#### Testing
+* [`Mocha`](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
 
 ### Code Quality
 #### Linting
@@ -64,14 +79,21 @@ List of packages needed for development.
 ## Packages for Management & Operations
 List of packages needed for management and operations.
 
+#### Loggers/Logging
+* [`Winston`](https://www.npmjs.com/package/winston) - A logger for just about everything.
+
 #### Monitoring
 * [`PM2`](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
 * [`Forever`](https://www.npmjs.com/package/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
+* [`nodemon`](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 * [`Trace`](https://github.com/RisingStack/trace-nodejs) - A visualised stack trace platform designed for microservices.
 
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
+<<<<<<< HEAD
 
 
 
 [Github.IO](https://aravindnc.github.io/A-to-Z-List-of-Useful-Node.js-Modules/)
+=======
+>>>>>>> 02a03709b503745effaddb55b1aa5b9be187f813
