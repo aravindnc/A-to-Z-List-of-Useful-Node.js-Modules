@@ -56,6 +56,7 @@ comprehensive set of strategies support authentication using a username and pass
 
 #### Upload Files
 * [`express-fileupload`](https://github.com/richardgirges/express-fileupload) - Simple express middleware for uploading files.
+* [`Multer-JS`](https://github.com/expressjs/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
 
 #### Form Information
 * [`Body-parser`](https://github.com/expressjs/body-parser) - Node.js body parsing middleware - Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
