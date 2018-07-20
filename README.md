@@ -35,6 +35,10 @@ List of packages needed for development.
 * [`Serverless`](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 * [`StdLib`](https://stdlib.com/) - Standard library for microservices.
 
+
+#### Machine Learning Framework
+* [`TensorFlow`](https://www.tensorflow.org/) - An open source machine learning framework for everyone
+
 ### Database
 #### MongoDB & Helpers
 * [`Mongoose`](http://mongoosejs.com) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
@@ -45,8 +49,24 @@ List of packages needed for development.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
 ### Development
+
+#### Templates 
+
+* [`EJS`](https://github.com/mde/ejs) - Embedded JavaScript templates
+
 #### Authentication 
-* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+* [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A 
+comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+
+#### Upload Files
+* [`express-fileupload`](https://github.com/richardgirges/express-fileupload) - Simple express middleware for uploading files.
+* [`Multer-JS`](https://github.com/expressjs/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency.
+
+#### Form Information
+* [`Body-parser`](https://github.com/expressjs/body-parser) - Node.js body parsing middleware - Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+
+#### Flash Messages
+* [`connect-flash`](https://github.com/jaredhanson/connect-flash) - The flash is a special area of the session used for storing messages. Messages are written to the flash and cleared after being displayed to the user. The flash is typically used in combination with redirects, ensuring that the message is available to the next page that is to be rendered.
 
 #### EMail
 * [`Nodemailer`](http://nodemailer.com/) - Send e-mails with Node.JS – easy as cake!
@@ -54,6 +74,8 @@ List of packages needed for development.
 
 #### HTTP REST Client
 * [`Axios`](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
+
+* [`method-override`](https://github.com/expressjs/method-override) - Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it.
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
