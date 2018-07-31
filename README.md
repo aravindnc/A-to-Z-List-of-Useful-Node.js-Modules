@@ -35,6 +35,28 @@ List of packages needed for development.
 * [`Serverless`](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 * [`StdLib`](https://stdlib.com/) - Standard library for microservices.
 
+#### Game
+* [`ox`](https://github.com/OttoRobba/ox) - tiny 2D game framework for the web
+* [`Selfish`](https://github.com/Gozala/selfish) - class-free, pure prototypal inheritance
+* [`Mibbu`](https://github.com/michalbe/mibbu) - Javascript game microframework
+* [`jAllegro`](http://jallegro.sos.gd/) - JavaScript port of a game programming library
+* [`Ocelot`](https://github.com/geoffb/ocelot) - minimalist HTML5 2D game engine, Ocelot aims for simplicity and small filesize
+* [`js13k-boilerplate`](https://github.com/ooflorent/js13k-boilerplate) - js13kGames boilerplate
+* [`js13k-toolkit`](https://github.com/lucaspenney/js13k-toolkit) - starter repository for js13kGames, a set of tools for developing a JS game and keeping it under 13kb
+* [`js13k-requirejs`](https://github.com/spmurrayzzz/js13k-requirejs) - require.js-powered application template with build tools
+* [`js13k-rollup`](https://github.com/spmurrayzzz/js13k-rollup) - gulp/rollup.js powered template with support for ES2015 modules and build tools
+* [`js13k-starter`](https://github.com/aymanfarhat/js13k-starter) - sample js13k project structure, example and Gulp build process
+* [`Tiny-Canvas`](https://github.com/bitnenfer/tiny-canvas) - lightweight minimal implementation of a batched and stack matrix based Canvas with WebGL backend
+* [`Ga`](https://github.com/kittykatattack/ga) - tiny, cute and friendly system for making HTML5 games
+* [`platform-engine`](https://github.com/xem/platform-engine) - 2D platform engine that handles collisions, slopes, rotations, etc.
+* [`js13kGames-boilerplate`](https://github.com/voronianski-on-games/js13kGames-boilerplate) - includes game loop, utility functions and webpack config to package game with just one command
+* [`js13k-webpack-starter`](https://github.com/sz-piotr/js13k-webpack-starter) - build with a single command, dev server, es2015 support
+* [`js13k-base`](https://github.com/aerze/js13k-base) - simple commands, a server, and a sample game + framework
+* [`js13kgames-parcel-starter`](https://github.com/mtmckenna/js13kgames-parcel-starter) - starter repo to build, zip, and check the file size of your game with a single command
+* [`responsiveTouchGameFramework`](https://github.com/xem/responsiveTouchGameFramework) - responsive canvas game framework with unified mouse / tactile inputs
+* [`Tweetwork`](https://twitter.com/MaximeEuziere/status/883044404453294080) - a 140b canvas game framework
+* [`Kontra`](https://straker.github.io/kontra/) - a lightweight JavaScript gaming micro-library, optimized for js13kGames
+* [`JS13K 2017 Kit`](https://github.com/Rybar/js13k2017kit) - a pico-8 like graphics engine and game boilerplate
 
 #### Machine Learning Framework
 * [`TensorFlow`](https://www.tensorflow.org/) - An open source machine learning framework for everyone
