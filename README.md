@@ -53,6 +53,7 @@ List of packages needed for development.
 #### Templates 
 
 * [`EJS`](https://github.com/mde/ejs) - Embedded JavaScript templates
+* [`MustacheJS`](https://github.com/janl/mustache.js) - mustache.js is an implementation of the mustache template system in JavaScript.
 
 #### Authentication 
 * [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A 
@@ -64,6 +65,7 @@ comprehensive set of strategies support authentication using a username and pass
 
 #### Form Information
 * [`Body-parser`](https://github.com/expressjs/body-parser) - Node.js body parsing middleware - Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+* [`Express-Validator`](https://express-validator.github.io/docs/) - express-validator is a set of express.js middlewares that wraps validator.js validator and sanitizer functions.
 
 #### Flash Messages
 * [`connect-flash`](https://github.com/jaredhanson/connect-flash) - The flash is a special area of the session used for storing messages. Messages are written to the flash and cleared after being displayed to the user. The flash is typically used in combination with redirects, ensuring that the message is available to the next page that is to be rendered.
