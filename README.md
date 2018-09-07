@@ -34,6 +34,7 @@ List of packages needed for development.
 * [`Seneca`](http://senecajs.org/) - A microservices toolkit for Node.js
 * [`Serverless`](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 * [`StdLib`](https://stdlib.com/) - Standard library for microservices.
+* [`zeronode`](https://www.npmjs.com/package/zeronode) - A minimal building block for NodeJS microservices.
 
 #### Game
 * [`ox`](https://github.com/OttoRobba/ox) - tiny 2D game framework for the web
