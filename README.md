@@ -25,6 +25,7 @@ List of packages needed for development.
 * [`Sails.js`](https://sailsjs.com/) - Sails is the most popular MVC framework for Node.js.
 * [`Hapi`](http://hapijs.com/) - A rich framework for building applications and services.
 * [`Koa`](http://koajs.com/) - Next generation web framework for Node.js
+* [`NestJS`](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular.
 
 #### Microservice Framework
 * [`Micro`](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
@@ -72,6 +73,11 @@ List of packages needed for development.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
 ### Development
+* [`Lodash](https://www.npmjs.com/package/lodash) - Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.
+* [`Underscore`](https://www.npmjs.com/package/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
+* [`Async`](https://caolan.github.io/async/) - Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
+* [`MomentJs`](https://www.npmjs.com/package/moment - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+* [`Cheerio`](https://cheerio.js.org/) - jQuery for Server side. Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 #### Templates 
 
@@ -97,11 +103,23 @@ comprehensive set of strategies support authentication using a username and pass
 
 #### HTTP REST Client
 * [`Axios`](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
-
+* [`Request`](https://www.npmjs.com/package/request) - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 * [`method-override`](https://github.com/expressjs/method-override) - Lets you use HTTP verbs such as PUT or DELETE in places where the client doesn't support it.
+
+#### Realtime Tasks
+* [`Socket.IO`](https://www.npmjs.com/package/socket.io) - Socket.IO enables real-time bidirectional event-based communication.
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
+
+#### Automation
+* [`Grunt`](https://www.npmjs.com/package/grunt) - Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.
+* [`Gulp`](https://www.npmjs.com/package/gulp) - Gulp is a task runner used for automation of time-consuming and repetitive tasks involved in web development like minification, concatenation, cache busting, unit testing, linting, optimization, etc.
+
+#### Terminal / Command Line
+* [`Commander`](https://www.npmjs.com/package/commander) - The complete solution for node.js command-line interfaces, inspired by Ruby's commander.
+* [`Colors`](https://www.npmjs.com/package/colors) - Easily add ANSI colors to your text and symbols in the terminal.
+* [`Chalk`](https://github.com/chalk/chalk-cli) - Terminal string styling done right.
 
 #### Testing
 * [`Mocha`](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
@@ -116,6 +134,7 @@ List of packages needed for management and operations.
 
 #### Loggers/Logging
 * [`Winston`](https://www.npmjs.com/package/winston) - A logger for just about everything.
+* [`Morgan`](https://www.npmjs.com/package/morgan) - HTTP request logger middleware for node.js
 
 #### Monitoring
 * [`PM2`](https://www.npmjs.com/package/pm2) - It allows you to keep applications alive forever, to reload them without downtime and facilitate common Devops tasks.
