@@ -73,10 +73,10 @@ List of packages needed for development.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
 ### Development
-* [`Lodash](https://www.npmjs.com/package/lodash) - Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.
+* [`Lodash`](https://www.npmjs.com/package/lodash) - Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.
 * [`Underscore`](https://www.npmjs.com/package/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 * [`Async`](https://caolan.github.io/async/) - Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
-* [`MomentJs`](https://www.npmjs.com/package/moment - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+* [`MomentJs`](https://www.npmjs.com/package/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [`Cheerio`](https://cheerio.js.org/) - jQuery for Server side. Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 #### Templates 
