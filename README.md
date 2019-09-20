@@ -37,29 +37,6 @@ List of packages needed for development.
 * [`StdLib`](https://stdlib.com/) - Standard library for microservices.
 * [`zeronode`](https://www.npmjs.com/package/zeronode) - A minimal building block for NodeJS microservices.
 
-#### Game
-* [`ox`](https://github.com/OttoRobba/ox) - tiny 2D game framework for the web
-* [`Selfish`](https://github.com/Gozala/selfish) - class-free, pure prototypal inheritance
-* [`Mibbu`](https://github.com/michalbe/mibbu) - Javascript game microframework
-* [`jAllegro`](http://jallegro.sos.gd/) - JavaScript port of a game programming library
-* [`Ocelot`](https://github.com/geoffb/ocelot) - minimalist HTML5 2D game engine, Ocelot aims for simplicity and small filesize
-* [`js13k-boilerplate`](https://github.com/ooflorent/js13k-boilerplate) - js13kGames boilerplate
-* [`js13k-toolkit`](https://github.com/lucaspenney/js13k-toolkit) - starter repository for js13kGames, a set of tools for developing a JS game and keeping it under 13kb
-* [`js13k-requirejs`](https://github.com/spmurrayzzz/js13k-requirejs) - require.js-powered application template with build tools
-* [`js13k-rollup`](https://github.com/spmurrayzzz/js13k-rollup) - gulp/rollup.js powered template with support for ES2015 modules and build tools
-* [`js13k-starter`](https://github.com/aymanfarhat/js13k-starter) - sample js13k project structure, example and Gulp build process
-* [`Tiny-Canvas`](https://github.com/bitnenfer/tiny-canvas) - lightweight minimal implementation of a batched and stack matrix based Canvas with WebGL backend
-* [`Ga`](https://github.com/kittykatattack/ga) - tiny, cute and friendly system for making HTML5 games
-* [`platform-engine`](https://github.com/xem/platform-engine) - 2D platform engine that handles collisions, slopes, rotations, etc.
-* [`js13kGames-boilerplate`](https://github.com/voronianski-on-games/js13kGames-boilerplate) - includes game loop, utility functions and webpack config to package game with just one command
-* [`js13k-webpack-starter`](https://github.com/sz-piotr/js13k-webpack-starter) - build with a single command, dev server, es2015 support
-* [`js13k-base`](https://github.com/aerze/js13k-base) - simple commands, a server, and a sample game + framework
-* [`js13kgames-parcel-starter`](https://github.com/mtmckenna/js13kgames-parcel-starter) - starter repo to build, zip, and check the file size of your game with a single command
-* [`responsiveTouchGameFramework`](https://github.com/xem/responsiveTouchGameFramework) - responsive canvas game framework with unified mouse / tactile inputs
-* [`Tweetwork`](https://twitter.com/MaximeEuziere/status/883044404453294080) - a 140b canvas game framework
-* [`Kontra`](https://straker.github.io/kontra/) - a lightweight JavaScript gaming micro-library, optimized for js13kGames
-* [`JS13K 2017 Kit`](https://github.com/Rybar/js13k2017kit) - a pico-8 like graphics engine and game boilerplate
-
 #### Machine Learning Framework
 * [`TensorFlow JS`](https://www.tensorflow.org/js) - a JavaScript library for training and deploying models in the browser and on Node.js.
 
@@ -73,14 +50,43 @@ List of packages needed for development.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
 
 ### Development
-* [`Lodash`](https://www.npmjs.com/package/lodash) - Lodash is a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.
-* [`Underscore`](https://www.npmjs.com/package/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.
 * [`Async`](https://caolan.github.io/async/) - Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
-* [`MomentJs`](https://www.npmjs.com/package/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [`Cheerio`](https://cheerio.js.org/) - jQuery for Server side. Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+* [`PDFKit`](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser.
+* [`Faker`](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data in the browser and node.js
+* [`Through`](https://github.com/dominictarr/through) - simple way to create a ReadableWritable stream that works
+* [`browserify`](https://github.com/browserify/browserify) - browser-side require() the node.js way
+* [`bodyparser`](https://github.com/expressjs/body-parser) - Node.js body parsing middleware. Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+
+#### File System
+* [`fs-extra`](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
+
+#### Command Line
+* [`Inquirer.js`](https://github.com/SBoudrias/Inquirer.js#readme) - A collection of common interactive command line user interfaces.
+* [`Commander.js`](https://github.com/tj/commander.js/) - The complete solution for node.js command-line interfaces, inspired by Ruby's commander.
+
+#### Parser
+* [`NodeCSV`](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. 
+
+#### Image Processing
+* [`GM`](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node
+* [`Sharp`](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
+
+#### Utility Library
+* [`Lodash`](https://lodash.com/) - a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.
+* [`Underscore.js`](https://underscorejs.org/) - A JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.  
+
+#### Validation and Formatting
+* [`Validator.js`](https://github.com/validatorjs/validator.js) - A library of string validators and sanitizers.
+* [`MomentJs`](https://www.npmjs.com/package/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+
+#### Minifiers
+* [`HTML Minifier`](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support) 
+* [`CleanCSS`](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
+* [`UglifyJS2`](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit.
+* [`SVGO`](https://github.com/svg/svgo) - SVG Optimizer is a Nodejs-based tool for optimizing SVG vector graphics files. 
 
 #### Templates 
-
 * [`EJS`](https://github.com/mde/ejs) - Embedded JavaScript templates
 
 #### Authentication 
@@ -121,8 +127,32 @@ comprehensive set of strategies support authentication using a username and pass
 * [`Colors`](https://www.npmjs.com/package/colors) - Easily add ANSI colors to your text and symbols in the terminal.
 * [`Chalk`](https://github.com/chalk/chalk-cli) - Terminal string styling done right.
 
+#### Game
+* [`ox`](https://github.com/OttoRobba/ox) - tiny 2D game framework for the web
+* [`Selfish`](https://github.com/Gozala/selfish) - class-free, pure prototypal inheritance
+* [`Mibbu`](https://github.com/michalbe/mibbu) - Javascript game microframework
+* [`jAllegro`](http://jallegro.sos.gd/) - JavaScript port of a game programming library
+* [`Ocelot`](https://github.com/geoffb/ocelot) - minimalist HTML5 2D game engine, Ocelot aims for simplicity and small filesize
+* [`js13k-boilerplate`](https://github.com/ooflorent/js13k-boilerplate) - js13kGames boilerplate
+* [`js13k-toolkit`](https://github.com/lucaspenney/js13k-toolkit) - starter repository for js13kGames, a set of tools for developing a JS game and keeping it under 13kb
+* [`js13k-requirejs`](https://github.com/spmurrayzzz/js13k-requirejs) - require.js-powered application template with build tools
+* [`js13k-rollup`](https://github.com/spmurrayzzz/js13k-rollup) - gulp/rollup.js powered template with support for ES2015 modules and build tools
+* [`js13k-starter`](https://github.com/aymanfarhat/js13k-starter) - sample js13k project structure, example and Gulp build process
+* [`Tiny-Canvas`](https://github.com/bitnenfer/tiny-canvas) - lightweight minimal implementation of a batched and stack matrix based Canvas with WebGL backend
+* [`Ga`](https://github.com/kittykatattack/ga) - tiny, cute and friendly system for making HTML5 games
+* [`platform-engine`](https://github.com/xem/platform-engine) - 2D platform engine that handles collisions, slopes, rotations, etc.
+* [`js13kGames-boilerplate`](https://github.com/voronianski-on-games/js13kGames-boilerplate) - includes game loop, utility functions and webpack config to package game with just one command
+* [`js13k-webpack-starter`](https://github.com/sz-piotr/js13k-webpack-starter) - build with a single command, dev server, es2015 support
+* [`js13k-base`](https://github.com/aerze/js13k-base) - simple commands, a server, and a sample game + framework
+* [`js13kgames-parcel-starter`](https://github.com/mtmckenna/js13kgames-parcel-starter) - starter repo to build, zip, and check the file size of your game with a single command
+* [`responsiveTouchGameFramework`](https://github.com/xem/responsiveTouchGameFramework) - responsive canvas game framework with unified mouse / tactile inputs
+* [`Tweetwork`](https://twitter.com/MaximeEuziere/status/883044404453294080) - a 140b canvas game framework
+* [`Kontra`](https://straker.github.io/kontra/) - a lightweight JavaScript gaming micro-library, optimized for js13kGames
+* [`JS13K 2017 Kit`](https://github.com/Rybar/js13k2017kit) - a pico-8 like graphics engine and game boilerplate
+
 #### Testing
 * [`Mocha`](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
+* [`Chai`](https://www.chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
 
 ### Code Quality
 #### Linting
@@ -144,3 +174,4 @@ List of packages needed for management and operations.
 
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
+
