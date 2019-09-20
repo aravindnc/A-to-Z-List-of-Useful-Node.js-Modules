@@ -61,7 +61,7 @@ List of packages needed for development.
 * [`JS13K 2017 Kit`](https://github.com/Rybar/js13k2017kit) - a pico-8 like graphics engine and game boilerplate
 
 #### Machine Learning Framework
-* [`TensorFlow`](https://www.tensorflow.org/) - An open source machine learning framework for everyone
+* [`TensorFlow JS`](https://www.tensorflow.org/js) - a JavaScript library for training and deploying models in the browser and on Node.js.
 
 ### Database
 #### MongoDB & Helpers
