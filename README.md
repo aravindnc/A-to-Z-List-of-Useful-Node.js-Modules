@@ -180,3 +180,5 @@ List of packages needed for management and operations.
 #### Code Quality Analysis
 * [`Plato`](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool.
 
+#### Boost Productivity
+* [`ProjectMan`](https://github.com/saurabhdaware/projectman) - A Project Manager to add projects to favorites and open them from your command-line.
