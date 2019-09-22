@@ -153,6 +153,11 @@ comprehensive set of strategies support authentication using a username and pass
 #### Testing
 * [`Mocha`](https://www.npmjs.com/package/mocha) - Simple, flexible, fun JavaScript test framework for Node.js & The Browser
 * [`Chai`](https://www.chaijs.com/) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework.
+* [`Jest`](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity..
+* [`Enzyme`](https://airbnb.io/enzyme/) - Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output
+* [`cucumber Gherkin`](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
+
+
 
 ### Code Quality
 #### Linting
