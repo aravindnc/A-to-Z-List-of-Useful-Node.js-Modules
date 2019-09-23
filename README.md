@@ -79,6 +79,7 @@ List of packages needed for development.
 #### Validation and Formatting
 * [`Validator.js`](https://github.com/validatorjs/validator.js) - A library of string validators and sanitizers.
 * [`MomentJs`](https://www.npmjs.com/package/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+* [`express-validator`](https://www.npmjs.com/package/express-validator) - An express.js middleware for validator.js.
 
 #### Minifiers
 * [`HTML Minifier`](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support) 
@@ -92,6 +93,7 @@ List of packages needed for development.
 #### Authentication 
 * [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A 
 comprehensive set of strategies support authentication using a username and password, Facebook, Twitter, and more.
+* [`JSON Web Token`](https://www.npmjs.com/package/jsonwebtoken) - Implementation of JSON Web Tokens
 
 #### Upload Files
 * [`express-fileupload`](https://github.com/richardgirges/express-fileupload) - Simple express middleware for uploading files.
