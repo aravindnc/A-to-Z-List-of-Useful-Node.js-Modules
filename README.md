@@ -158,6 +158,7 @@ comprehensive set of strategies support authentication using a username and pass
 * [`Jest`](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity..
 * [`Enzyme`](https://airbnb.io/enzyme/) - Enzyme is a JavaScript Testing utility for React that makes it easier to test your React Components' output. You can also manipulate, traverse, and in some ways simulate runtime given the output
 * [`cucumber Gherkin`](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
+* [`React Testing Library`](https://testing-library.com/docs/react-testing-library/intro) - The React Testing Library is a very light-weight solution for testing React components. The more your tests resemble the way your software is used, the more confidence they can give you.
 
 
 
