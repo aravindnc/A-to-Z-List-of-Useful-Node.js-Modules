@@ -91,6 +91,7 @@ List of packages needed for development.
 
 #### Templates 
 * [`EJS`](https://github.com/mde/ejs) - Embedded JavaScript templates
+* [`hbs`](https://github.com/pillarjs/hbs) - Express.js template engine plugin for Handlebars
 
 #### Authentication 
 * [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A 
