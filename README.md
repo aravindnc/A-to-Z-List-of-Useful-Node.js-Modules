@@ -68,6 +68,7 @@ List of packages needed for development.
 
 #### Parser
 * [`NodeCSV`](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. 
+* [`ShowdownJS`](https://www.npmjs.com/package/showdown) - Markdown to HTML converter JS library
 
 #### Image Processing
 * [`GM`](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node
