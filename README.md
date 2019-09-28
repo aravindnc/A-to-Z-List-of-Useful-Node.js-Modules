@@ -122,6 +122,7 @@ comprehensive set of strategies support authentication using a username and pass
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
+* [`Node Schedule`](https://www.npmjs.com/package/node-schedule) - A flexible job scheduler for Node.js that can perform different types of scheduling: Cron-style, Data-based and Recurrence Rule. 
 
 #### Automation
 * [`Grunt`](https://www.npmjs.com/package/grunt) - Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.
