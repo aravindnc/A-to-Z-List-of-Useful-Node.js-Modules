@@ -57,6 +57,7 @@ List of packages needed for development.
 * [`Through`](https://github.com/dominictarr/through) - simple way to create a ReadableWritable stream that works
 * [`browserify`](https://github.com/browserify/browserify) - browser-side require() the node.js way
 * [`bodyparser`](https://github.com/expressjs/body-parser) - Node.js body parsing middleware. Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
+* [`Puppeteer`](https://www.npmjs.com/package/puppeteer) - Node.js library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. It can be used to generate screenshots and PDFs of pages.
 
 #### File System
 * [`fs-extra`](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
@@ -67,6 +68,7 @@ List of packages needed for development.
 
 #### Parser
 * [`NodeCSV`](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets. 
+* [`ShowdownJS`](https://www.npmjs.com/package/showdown) - Markdown to HTML converter JS library
 
 #### Image Processing
 * [`GM`](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node
@@ -89,6 +91,7 @@ List of packages needed for development.
 
 #### Templates 
 * [`EJS`](https://github.com/mde/ejs) - Embedded JavaScript templates
+* [`hbs`](https://github.com/pillarjs/hbs) - Express.js template engine plugin for Handlebars
 
 #### Authentication 
 * [`PassportJS`](http://www.passportjs.org/) - Passport is authentication middleware for Node.js and Express . A 
@@ -119,6 +122,7 @@ comprehensive set of strategies support authentication using a username and pass
 
 #### Job Scheduler & Queueing
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
+* [`Node Schedule`](https://www.npmjs.com/package/node-schedule) - A flexible job scheduler for Node.js that can perform different types of scheduling: Cron-style, Data-based and Recurrence Rule. 
 
 #### Automation
 * [`Grunt`](https://www.npmjs.com/package/grunt) - Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.
