@@ -121,8 +121,13 @@ comprehensive set of strategies support authentication using a username and pass
 * [`Socket.IO`](https://www.npmjs.com/package/socket.io) - Socket.IO enables real-time bidirectional event-based communication.
 
 #### Job Scheduler & Queueing
+* [`CRON`](https://www.npmjs.com/package/cron) - Cron is a tool that allows you to execute something on a schedule.
 * [`Agenda`](https://www.npmjs.com/package/agenda) - A light-weight job scheduling library for Node.js.
 * [`Node Schedule`](https://www.npmjs.com/package/node-schedule) - A flexible job scheduler for Node.js that can perform different types of scheduling: Cron-style, Data-based and Recurrence Rule. 
+
+#### Robotic Process Automation & Desktop Automation
+* [`ROBOTJS`](https://www.npmjs.com/package/robotjs)Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.
+* [`Puppeteer`](https://www.npmjs.com/package/puppeteer)Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.
 
 #### Automation
 * [`Grunt`](https://www.npmjs.com/package/grunt) - Grunt is a JavaScript task runner, a tool used to automatically perform frequent tasks such as minification, compilation, unit testing, and linting.
