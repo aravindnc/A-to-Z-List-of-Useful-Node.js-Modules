@@ -56,8 +56,6 @@ List of packages needed for development.
 * [`Faker`](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data in the browser and node.js
 * [`Through`](https://github.com/dominictarr/through) - simple way to create a ReadableWritable stream that works
 * [`browserify`](https://github.com/browserify/browserify) - browser-side require() the node.js way
-* [`bodyparser`](https://github.com/expressjs/body-parser) - Node.js body parsing middleware. Parse incoming request bodies in a middleware before your handlers, available under the req.body property.
-* [`Puppeteer`](https://www.npmjs.com/package/puppeteer) - Node.js library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. It can be used to generate screenshots and PDFs of pages.
 
 #### File System
 * [`fs-extra`](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
