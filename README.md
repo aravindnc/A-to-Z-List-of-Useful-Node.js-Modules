@@ -48,6 +48,7 @@ List of packages needed for development.
 #### MySQL & Helpers
 * [`MySQL`](https://www.npmjs.com/package/mysql) - A node.js driver for mysql. It is written in JavaScript, does not require compiling.
 * [`Sequelize`](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, SQLite and Microsoft SQL Server.
+* [`Knex.js`](https://knexjs.org/) Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible, portable, and fun to use.
 
 ### Development
 * [`Async`](https://caolan.github.io/async/) - Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
