@@ -26,6 +26,7 @@ List of packages needed for development.
 * [`Hapi`](http://hapijs.com/) - A rich framework for building applications and services.
 * [`Koa`](http://koajs.com/) - Next generation web framework for Node.js
 * [`NestJS`](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular.
+- [`tinyhttp`](https://github.com/talentlessguy/tinyhttp) - 0-legacy, tiny & fast web framework as a replacement of Express 
 
 #### Microservice Framework
 * [`Micro`](http://github.com/zeithq/micro) - Asynchronous HTTP microservices.
