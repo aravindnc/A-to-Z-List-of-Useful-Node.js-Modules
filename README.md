@@ -76,7 +76,12 @@ List of packages needed for development.
 
 #### Utility Library
 * [`Lodash`](https://lodash.com/) - a JavaScript library which provides utility functions for common programming tasks using the functional programming paradigm.
-* [`Underscore.js`](https://underscorejs.org/) - A JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.  
+* [`Underscore.js`](https://underscorejs.org/) - A JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. 
+* [`UUID`](https://www.npmjs.com/package/uuid) - For the creation of RFC4122 UUIDs
+
+#### Crypto
+* [`bcrypt`](https://www.npmjs.com/package/bcrypt) - A library to help you hash passwords.
+* [`crypto-js`](https://www.npmjs.com/package/crypto-js) - JavaScript library of crypto standards.
 
 #### Validation and Formatting
 * [`Validator.js`](https://github.com/validatorjs/validator.js) - A library of string validators and sanitizers.
