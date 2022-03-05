@@ -174,6 +174,10 @@ comprehensive set of strategies support authentication using a username and pass
 * [`cucumber Gherkin`](https://cucumber.io/docs/gherkin/) - JCucumber is a tool that supports Behaviour-Driven Development(BDD).
 * [`React Testing Library`](https://testing-library.com/docs/react-testing-library/intro) - The React Testing Library is a very light-weight solution for testing React components. The more your tests resemble the way your software is used, the more confidence they can give you.
 
+#### Web Security
+* [`Helmet`](https://www.npmjs.com/package/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!
+* [`Tusca`](https://www.npmjs.com/package/lusca) - Web application security middleware.
+
 ### Code Quality
 #### Linting
 * [`ESLint`](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
@@ -197,9 +201,4 @@ List of packages needed for management and operations.
 
 #### Boost Productivity
 * [`ProjectMan`](https://github.com/saurabhdaware/projectman) - A Project Manager to add projects to favorites and open them from your command-line.
-
-### Security
-#### Web Security
-* [`Helmet`](https://www.npmjs.com/package/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!
-* [`Tusca`](https://www.npmjs.com/package/lusca) - Web application security middleware.
 
