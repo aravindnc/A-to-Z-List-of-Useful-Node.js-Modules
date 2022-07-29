@@ -176,7 +176,7 @@ comprehensive set of strategies support authentication using a username and pass
 
 #### Web Security
 * [`Helmet`](https://www.npmjs.com/package/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers. It's not a silver bullet, but it can help!
-* [`Tusca`](https://www.npmjs.com/package/lusca) - Web application security middleware.
+* [`Lusca`](https://www.npmjs.com/package/lusca) - Web application security middleware.
 
 ### Code Quality
 #### Linting
