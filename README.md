@@ -87,6 +87,7 @@ List of packages needed for development.
 * [`Validator.js`](https://github.com/validatorjs/validator.js) - A library of string validators and sanitizers.
 * [`MomentJs`](https://www.npmjs.com/package/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 * [`express-validator`](https://www.npmjs.com/package/express-validator) - An express.js middleware for validator.js.
+* [`JOI`](https://joi.dev/) - The most powerful schema description language and data validator for JavaScript
 
 #### Minifiers
 * [`HTML Minifier`](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support) 
