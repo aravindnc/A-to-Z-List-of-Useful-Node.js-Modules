@@ -203,3 +203,6 @@ List of packages needed for management and operations.
 #### Boost Productivity
 * [`ProjectMan`](https://github.com/saurabhdaware/projectman) - A Project Manager to add projects to favorites and open them from your command-line.
 
+## Data Sets
+* [`Country State City`](https://github.com/dr5hn/countries-states-cities-database) - Full Database of city state country available in JSON, SQL, XML, YAML & CSV format. 
+
